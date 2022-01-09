@@ -2,3 +2,4 @@
 /.idea/
 /data/
 /mnist-logistic-minimal/
+/.jovianrc
