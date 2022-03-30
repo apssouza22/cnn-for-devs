@@ -1,10 +1,11 @@
-# Cnn-for-devs
+# CNN-for-devs
+
 A project to teach Convolution Neural Network for devs
 
 This project will walk through few important concepts to understand
 how Convolution Neural Network works. 
 
-I believe that the best way to learn something is through coding. In this project I will show how things work
+I believe that the best way to learn something is through coding. In this project I will show how neural nets work
 using code.
 
 Our journey will be:
