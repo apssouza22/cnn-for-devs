@@ -1,12 +1,10 @@
-# CNN-for-devs
+# Convolutional neural network(CNN) for devs
 
 A project to teach Convolution Neural Network for devs
 
-This project will walk through few important concepts to understand
-how Convolution Neural Network works. 
+This project will walk through few important concepts to understand how Convolution Neural Network works.
 
-I believe that the best way to learn something is through coding. In this project I will show how neural nets work
-using code.
+This project has one primary goal, to share insights and empower developers to leverage Deep learning applied to computer vision in their projects.
 
 Our journey will be:
 - [Working with images and numpy](a-images-and-numpy.ipynb)
@@ -19,8 +17,9 @@ Our journey will be:
 - [Image similarity - Image search](g-image-similarity.ipynb)
 - [Generating images with GAN](h-generate-anime-with-GAN.ipynb)
 
-CNN is an important part of computer vision. If you want to learn more about the topic you can check my 
-related projects. 
+CNN is an important part of computer vision. If you want to learn more about this fascinating topic you can check my related projects.
 
 - [Computer vision projects](https://github.com/apssouza22/computer-vision)
 - [Smart drone](https://github.com/apssouza22/smart-drone)
+
+<a href="https://www.buymeacoffee.com/apssouza"><img src="https://miro.medium.com/max/654/1*rQv8JgstmK0juxP-Kb4IGg.jpeg"></a>
