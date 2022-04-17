@@ -2,11 +2,14 @@
 
 A project to teach Convolution Neural Network for devs
 
-This project will walk through few important concepts to understand how Convolution Neural Network works.
+This project will help to teach some important concepts to understand how Convolution Neural Network works.
 
 This project has one primary goal, to share insights and empower developers to leverage Deep learning applied to computer vision in their projects.
 
+You can find more about the project [here](https://dev.to/apssouza22/convolution-neural-net-for-developers-free-course-5e95)
+
 Our journey will be:
+
 - [Working with images and numpy](a-images-and-numpy.ipynb)
 - [Image convolution with numpy](b-image-convolution.ipynb)
 - [Building a neural network from scratch](b-vanilla-neural-network-from-scratch.ipynb)
